@@ -1,0 +1,36 @@
+{
+  "version": "0",
+  "id": "bd26562d-c3c5-7be2-f20d-2e244c9315a8",
+  "detail-type": "CheckoutBasket",
+  "source": "com.swn.basket.checkout",
+  "account": "324775148927",
+  "time": "2023-03-20T09:57:47Z",
+  "region": "eu-central-1",
+  "resources": [],
+  "detail": {
+    "userName": "swn1",
+    "firstName": "Ian",
+    "lastName": "Hand",
+    "email": "Skylar.Mohr62@yahoo.com",
+    "address": "74427 Keely Estates",
+    "cardInfo": "7576",
+    "paymentMethod": 1,
+    "totalPrice": 715.59,
+    "items": [
+      {
+        "quantity": 787,
+        "color": "orange",
+        "productId": "e81f5695-4807-4ee1-a9d7-e6abcff6d11a",
+        "price": 486.87,
+        "productName": "Sleek Fresh Keyboard"
+      },
+      {
+        "quantity": 494,
+        "color": "orange",
+        "productId": "6e5c63bd-2ee1-42a1-8d92-c628ebbba7a1",
+        "price": 228.72,
+        "productName": "Incredible Metal Shoes"
+      }
+    ]
+  }
+}
